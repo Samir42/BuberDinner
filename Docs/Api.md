@@ -91,7 +91,7 @@ POST {{host}}/auth/login
 
 ## Create Dinner
 
-### Create Breakfast Request
+### Create Dinner Request
 
 ```js
 POST /breakfasts
@@ -100,7 +100,7 @@ POST /breakfasts
 ```json
 {
     "name": "Vegan Sunshine",
-    "description": "Vegan everything! Join us for a healthy breakfast..",
+    "description": "Vegan everything! Join us for a healthy dinner..",
     "startDateTime": "2022-04-08T08:00:00",
     "endDateTime": "2022-04-08T11:00:00",
     "savory": [
@@ -115,7 +115,7 @@ POST /breakfasts
 }
 ```
 
-### Create Breakfast Response
+### Create Dinner Response
 
 ```js
 201 Created
