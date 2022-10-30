@@ -6,6 +6,7 @@ using BuberDinner.Contracts.Breakfast;
 using BuberDinner.Contracts.Dinner;
 using MapsterMapper;
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BuberDinner.Api.Controllers;
