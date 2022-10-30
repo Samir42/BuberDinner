@@ -1,0 +1,3 @@
+@id=55a8b557-95a6-4f2f-b4ae-671be53275e5
+
+GET https://localhost:7009/dinners/{{id}}

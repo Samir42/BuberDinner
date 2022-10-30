@@ -1,11 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "xfE05kYu/x4buRo1Q3UrJmbzzbh7jWn8juObkoF6ZT6CMhPUSbzycWTO0swsF5TAHbjd/smZkajpA/9/FDXJCQ==",
+  "dgSpecHash": "6q4Zw3XLx/ooGmhoUq33SjNZMeQ9qrPgTz8CECU8HmwYzv1F9KtsRGbC6OzNg99Lv3F/6V8y9JHI8rUEGEk3Uw==",
   "success": true,
   "projectFilePath": "C:\\Users\\msi-\\Desktop\\CleanArchitecture\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\msi-\\.nuget\\packages\\erroror\\1.0.1\\erroror.1.0.1.nupkg.sha512",
-    "C:\\Users\\msi-\\.nuget\\packages\\fluentresults\\3.14.0\\fluentresults.3.14.0.nupkg.sha512",
     "C:\\Users\\msi-\\.nuget\\packages\\mapster\\7.3.0\\mapster.7.3.0.nupkg.sha512",
     "C:\\Users\\msi-\\.nuget\\packages\\mapster.core\\1.2.0\\mapster.core.1.2.0.nupkg.sha512",
     "C:\\Users\\msi-\\.nuget\\packages\\mapster.dependencyinjection\\1.0.0\\mapster.dependencyinjection.1.0.0.nupkg.sha512",
@@ -18,7 +17,6 @@
     "C:\\Users\\msi-\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\msi-\\.nuget\\packages\\microsoft.extensions.configuration.binder\\6.0.0\\microsoft.extensions.configuration.binder.6.0.0.nupkg.sha512",
     "C:\\Users\\msi-\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\msi-\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
     "C:\\Users\\msi-\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\msi-\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\6.0.0\\microsoft.extensions.options.configurationextensions.6.0.0.nupkg.sha512",
     "C:\\Users\\msi-\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
@@ -44,8 +42,7 @@
     "C:\\Users\\msi-\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
     "C:\\Users\\msi-\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
     "C:\\Users\\msi-\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
-    "C:\\Users\\msi-\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
-    "C:\\Users\\msi-\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+    "C:\\Users\\msi-\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

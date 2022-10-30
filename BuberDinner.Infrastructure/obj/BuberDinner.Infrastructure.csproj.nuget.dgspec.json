@@ -63,10 +63,6 @@
             "erroror": {
               "target": "Package",
               "version": "[1.0.1, )"
-            },
-            "fluentResults": {
-              "target": "Package",
-              "version": "[3.14.0, )"
             }
           },
           "imports": [
