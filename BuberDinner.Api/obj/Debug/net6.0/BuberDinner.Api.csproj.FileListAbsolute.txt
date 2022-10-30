@@ -46,3 +46,6 @@ C:\Users\msi-\Desktop\CleanArchitecture\BuberDinner\BuberDinner.Api\bin\Debug\ne
 C:\Users\msi-\Desktop\CleanArchitecture\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Mapster.dll
 C:\Users\msi-\Desktop\CleanArchitecture\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Mapster.Core.dll
 C:\Users\msi-\Desktop\CleanArchitecture\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Mapster.DependencyInjection.dll
+C:\Users\msi-\Desktop\CleanArchitecture\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\msi-\Desktop\CleanArchitecture\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\msi-\Desktop\CleanArchitecture\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
